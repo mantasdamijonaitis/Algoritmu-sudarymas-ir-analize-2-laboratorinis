@@ -1,0 +1,8 @@
+C:\Users\mantas.damijonaitis\documents\visual studio 2015\Projects\AlgorithmAnalisisSecond\AlgorithmAnalisisSecondTests\bin\Debug\AlgorithmAnalisisSecondTests.dll
+C:\Users\mantas.damijonaitis\documents\visual studio 2015\Projects\AlgorithmAnalisisSecond\AlgorithmAnalisisSecondTests\bin\Debug\AlgorithmAnalisisSecondTests.pdb
+C:\Users\mantas.damijonaitis\documents\visual studio 2015\Projects\AlgorithmAnalisisSecond\AlgorithmAnalisisSecondTests\bin\Debug\AlgorithmAnalisisSecond.exe
+C:\Users\mantas.damijonaitis\documents\visual studio 2015\Projects\AlgorithmAnalisisSecond\AlgorithmAnalisisSecondTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\mantas.damijonaitis\documents\visual studio 2015\Projects\AlgorithmAnalisisSecond\AlgorithmAnalisisSecondTests\bin\Debug\AlgorithmAnalisisSecond.pdb
+C:\Users\mantas.damijonaitis\documents\visual studio 2015\Projects\AlgorithmAnalisisSecond\AlgorithmAnalisisSecondTests\obj\Debug\AlgorithmAnalisisSecondTests.csprojResolveAssemblyReference.cache
+C:\Users\mantas.damijonaitis\documents\visual studio 2015\Projects\AlgorithmAnalisisSecond\AlgorithmAnalisisSecondTests\obj\Debug\AlgorithmAnalisisSecondTests.dll
+C:\Users\mantas.damijonaitis\documents\visual studio 2015\Projects\AlgorithmAnalisisSecond\AlgorithmAnalisisSecondTests\obj\Debug\AlgorithmAnalisisSecondTests.pdb

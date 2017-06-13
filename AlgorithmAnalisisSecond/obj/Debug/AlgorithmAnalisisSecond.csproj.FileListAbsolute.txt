@@ -1,0 +1,6 @@
+c:\users\mantas.damijonaitis\documents\visual studio 2015\Projects\AlgorithmAnalisisSecond\AlgorithmAnalisisSecond\bin\Debug\AlgorithmAnalisisSecond.exe.config
+c:\users\mantas.damijonaitis\documents\visual studio 2015\Projects\AlgorithmAnalisisSecond\AlgorithmAnalisisSecond\bin\Debug\AlgorithmAnalisisSecond.exe
+c:\users\mantas.damijonaitis\documents\visual studio 2015\Projects\AlgorithmAnalisisSecond\AlgorithmAnalisisSecond\bin\Debug\AlgorithmAnalisisSecond.pdb
+c:\users\mantas.damijonaitis\documents\visual studio 2015\Projects\AlgorithmAnalisisSecond\AlgorithmAnalisisSecond\obj\Debug\AlgorithmAnalisisSecond.exe
+c:\users\mantas.damijonaitis\documents\visual studio 2015\Projects\AlgorithmAnalisisSecond\AlgorithmAnalisisSecond\obj\Debug\AlgorithmAnalisisSecond.pdb
+C:\Users\mantas.damijonaitis\documents\visual studio 2015\Projects\AlgorithmAnalisisSecond\AlgorithmAnalisisSecond\obj\Debug\AlgorithmAnalisisSecond.csprojResolveAssemblyReference.cache
